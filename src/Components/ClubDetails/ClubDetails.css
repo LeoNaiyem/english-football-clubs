@@ -1,0 +1,51 @@
+.jersey-image{
+    height: 260px;
+    width: 320px;
+    object-fit: contain;
+}
+.club-details{
+    width: 95%;
+    padding: 2rem;
+    border-radius: 10px;
+    margin: 0 auto;
+    background:linear-gradient(135deg, #d10b53 0%,#ffb849 100%);
+    display: flex;
+    justify-content: space-between;
+}
+.info h1{
+    font-size: 45px;
+    color:whitesmoke;
+}
+.info p{
+    font-size: 18px;
+    color: #c0c0c0;
+}
+.info{
+    font-weight: 600;
+}
+.more{
+    width: 95%;
+    padding: 0rem;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 1.4rem;
+}
+.social-media{
+    text-align: center;
+    background-color: #000000;
+    padding-bottom: 2rem;
+}
+.icon{
+    color: white;
+    font-size: 45px;
+    margin-right: 20px;
+}
+.icon:hover{
+    transform: scale(1.2);
+    color: lightblue;
+    transition: all .5s ease;
+}
+.note{
+    color: red;
+}

@@ -1,0 +1,31 @@
+.club-area{
+    height: 320px;
+    width: 30%;
+    background:linear-gradient(135deg, #aa63f5 0%,#62dbf6 100%);
+    padding: 2rem;
+    margin: 18px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.club-logo img{
+    height: 150px;
+    width: 150px;
+}
+.club-info{
+    margin-top: auto;
+}
+.club-info h3{
+    font-size:20px;
+}
+.explore-btn{
+    background-color: #3A42FF;
+    padding:10px 20px;
+    margin-top: 10px;
+    outline: none;
+    border: 1px solid #3A42FF;
+    color: #FFFFFF;
+}
